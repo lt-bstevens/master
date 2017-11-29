@@ -1,5 +1,5 @@
 {
-  "name": "protractor-testObject",
+  "name": "protractorTestObject",
   "description": "Webdriver E2E test wrapper for Angular.",
   "homepage": "https://github.com/angular/protractor",
   "keywords": [
